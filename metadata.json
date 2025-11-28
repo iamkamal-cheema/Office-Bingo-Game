@@ -1,0 +1,7 @@
+{
+  "name": "Bingo Snap",
+  "description": "Create custom photo bingo games, challenge friends, and snap photos to win!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
